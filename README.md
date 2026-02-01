@@ -2,7 +2,7 @@
 
 This tool prunes a list of Linux kernel CVEs based on code reachability analysis. It identifies which CVEs are relevant to a given system or workload by checking if the affected symbols are reachable in your environment.
 
-** NOTE ** THIS IS A WORK IN PROGRESS. COMPLETE CODE WILL BE AVAILABLE SOON.
+*NOTE* THIS IS A WORK IN PROGRESS. COMPLETE CODE WILL BE AVAILABLE SOON.
 
 ## Features
 
